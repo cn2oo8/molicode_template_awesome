@@ -8,7 +8,7 @@
 
 ## 基础工程(base project)
 
-### molicode base project
+### 1. Springboot base project
 
 molicode基础工程，和molicode底层的代码和架构基本一致，主要是springboot的web应用，去掉了一些本地app相关的特性，更加纯粹的作为一个普通的web应用来使用。本工程是我目前比较推荐的脚手架工程。
 
@@ -24,6 +24,24 @@ autocode-template-example -> autocode-template-selfsdk
 
 里面的 autocode-template-selfsdk 模板。
 
+### 2. Jshow aceadmin base project
+
+Aceadmin 基础工程， 基于bootstrap aceadmin 前端UI，可以作为常用的普通中后台前后端代码自动生成工程使用。前端UI采用aceadmin + bootstrap.
+
+主要技术栈： springmvc + mybatis + aceadmin + jQuery
+
+下载地址：[https://github.com/cn2oo8/aceadmin-base-prj](https://github.com/cn2oo8/aceadmin-base-prj)
+
+配合模板：
+
+autocode-template-example -> autocode-template-aceadmin
+
+请使用https://github.com/cn2oo8/autocode-template-example
+
+里面的 autocode-template-aceadmin 模板。
+
+> 特别说明：这个工程目前还不是很完善，有任何意见和建议欢迎提issue处理。
+
 ## 优秀模板(awesome template)
 
 
@@ -36,7 +54,9 @@ https://github.com/cn2oo8/autocode-template-example
 
 > **autocode-template-aceadmin**
 >
-> 用于生成aceadmin整套增删改查的模板； mybatis, spring, controller+service+manager+dao+mybatis mapper
+> 用于生成aceadmin整套增删改查的模板； mybatis, spring, controller+service+manager+dao+mybatis mapper.
+>
+> 可以配合： Jshow aceadmin base project 基础工程使用。
 >
 > **autocode-template-devtest**
 >
@@ -44,7 +64,9 @@ https://github.com/cn2oo8/autocode-template-example
 >
 > **autocode-template-selfsdk**
 >
-> 生成molicode自身开发的代码模板；可以配合基础工程使用：
+> 生成molicode自身开发的代码模板；可以配合基础工程使用：Springboot base project
+>
+>
 >
 > **autocode-template-tool**
 >
