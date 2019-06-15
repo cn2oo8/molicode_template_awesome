@@ -1,3 +1,20 @@
 {
-  "hello": "world"
+  "repos": [
+    {
+      "gitUrl": "git@github.com:cn2oo8/springboot-base-prj.git",
+      "branchName": "master",
+      "title": "springboot基础工程",
+      "description": "用于springboot初始化的工程",
+      "author": "david",
+      "homePage": "https://github.com/cn2oo8/springboot-base-prj"
+    },
+    {
+      "gitUrl": "git@github.com:cn2oo8/aceadmin-base-prj.git",
+      "branchName": "master",
+      "title": "bootstrap3基础工程",
+      "description": "基于aceadmin的基础工程",
+      "author": "david",
+      "homePage": "https://github.com/cn2oo8/aceadmin-base-prj"
+    }
+  ]
 }
