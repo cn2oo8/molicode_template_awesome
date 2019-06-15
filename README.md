@@ -78,6 +78,20 @@ https://github.com/cn2oo8/autocode-template-example
 >
 >
 
+## 社交
+
+QQ群名称：molicode技术交流群 群号：753207541
+
+欢迎加入沟通交流答疑群；
+
+## 示例教程
+molicode生成工程代码实战: [https://my.oschina.net/davidzhang/blog/3036548](https://my.oschina.net/davidzhang/blog/3036548)
+
+使用molicode进行json数据处理 [https://my.oschina.net/davidzhang/blog/3034658](https://my.oschina.net/davidzhang/blog/3034658) 
+
+使用molicode处理Java源代码 [https://my.oschina.net/davidzhang/blog/3036589](https://my.oschina.net/davidzhang/blog/3036589) 
+
+使用molicode生成excel [https://my.oschina.net/davidzhang/blog/3036540](https://my.oschina.net/davidzhang/blog/3036540) 
 
 
 ## 最新模板(latest template)
