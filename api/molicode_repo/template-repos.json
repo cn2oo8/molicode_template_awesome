@@ -1,3 +1,39 @@
 {
-  "hello": "world"
+  "repos": [
+    {
+      "gitUrl": "git@github.com:cn2oo8/autocode-template-example.git",
+      "branchName": "master",
+      "title": "aceadmin模板",
+      "description": "用于aceadmin模板，aceadmin+bootstrap3",
+      "author": "david",
+      "homePage": "https://github.com/cn2oo8/autocode-template-example",
+      "templateRelativePath": "autocode-template-aceadmin"
+    },
+    {
+      "gitUrl": "git@github.com:cn2oo8/autocode-template-example.git",
+      "branchName": "master",
+      "title": "molicode自身模板",
+      "description": "iviewadmin2+vue2+springboot+mybatis",
+      "author": "david",
+      "homePage": "https://github.com/cn2oo8/autocode-template-example",
+      "templateRelativePath": "autocode-template-selfsdk"
+    },
+    {
+      "gitUrl": "git@github.com:cn2oo8/autocode-template-example.git",
+      "branchName": "master",
+      "title": "vue crud模板",
+      "description": "iview2+vue2增删改查模板",
+      "author": "david",
+      "homePage": "https://github.com/cn2oo8/autocode-template-example",
+      "templateRelativePath": "autocode-template-vue"
+    },
+    {
+      "gitUrl": "git@github.com:cn2oo8/molicode-template-study.git",
+      "branchName": "master",
+      "title": "molicode模板开发学习",
+      "description": "molicode模板开发学习模板",
+      "author": "david",
+      "homePage": "https://github.com/cn2oo8/molicode-template-study"
+    }
+  ]
 }
