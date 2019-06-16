@@ -6,7 +6,11 @@
       "title": "springboot基础工程",
       "description": "用于springboot初始化的工程",
       "author": "david",
-      "homePage": "https://github.com/cn2oo8/springboot-base-prj"
+      "homePage": "https://github.com/cn2oo8/springboot-base-prj",
+      "extConfig": {
+        "replaceExp": "com.shareyi.basespringboot=com.shareyi.user.center\nbaseproject-springboot=usercenter",
+        "dirReplaceExp": "com/shareyi/basespringboot=com/shareyi/user/center"
+      }
     },
     {
       "gitUrl": "git@github.com:cn2oo8/aceadmin-base-prj.git",
@@ -14,7 +18,11 @@
       "title": "bootstrap3基础工程",
       "description": "基于aceadmin的基础工程",
       "author": "david",
-      "homePage": "https://github.com/cn2oo8/aceadmin-base-prj"
+      "homePage": "https://github.com/cn2oo8/aceadmin-base-prj",
+      "extConfig": {
+        "replaceExp": "com.shareyi.jshow=com.shareyi.user.center\njshow=usercenter",
+        "dirReplaceExp": "com/shareyi/jshow=com/shareyi/user/center"
+      }
     }
   ]
 }
