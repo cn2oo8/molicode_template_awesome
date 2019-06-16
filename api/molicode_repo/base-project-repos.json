@@ -9,8 +9,7 @@
       "homePage": "https://github.com/cn2oo8/springboot-base-prj",
       "extConfig": {
         "replaceExp": "com.shareyi.basespringboot=com.shareyi.user.center\nbaseproject-springboot=usercenter",
-        "dirReplaceExp": "com/shareyi/basespringboot=com/shareyi/user/center",
-        "ignoreExp": "target, *.iml, .svn, node_modules, .git"
+        "dirReplaceExp": "com/shareyi/basespringboot=com/shareyi/user/center"
       }
     },
     {
@@ -22,8 +21,7 @@
       "homePage": "https://github.com/cn2oo8/aceadmin-base-prj",
       "extConfig": {
         "replaceExp": "com.shareyi.jshow=com.shareyi.user.center\njshow=usercenter",
-        "dirReplaceExp": "com/shareyi/jshow=com/shareyi/user/center",
-        "ignoreExp": "target, *.iml, .svn, node_modules, .git"
+        "dirReplaceExp": "com/shareyi/jshow=com/shareyi/user/center"
       }
     }
   ]
