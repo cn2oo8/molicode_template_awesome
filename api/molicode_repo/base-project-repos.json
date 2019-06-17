@@ -8,7 +8,7 @@
       "author": "david",
       "homePage": "https://github.com/cn2oo8/springboot-base-prj",
       "extConfig": {
-        "replaceExp": "com.shareyi.basespringboot=com.shareyi.user.center\nbaseproject-springboot=usercenter",
+        "replaceExp": "com.shareyi.basespringboot=com.shareyi.user.center\nbaseproject-springboot=usercenter\ncom.shareyi.baseproject=com.shareyi.usercenter",
         "dirReplaceExp": "com/shareyi/basespringboot=com/shareyi/user/center"
       }
     },
