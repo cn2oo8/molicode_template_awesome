@@ -56,6 +56,23 @@ autocode-template-example -> autocode-template-aceadmin
 
 ## 优秀模板(awesome template)
 
+### molicode-template-elementui
+
+模板地址：（据说美国佬已经无耻到限制部分国家github使用了）：
+https://gitee.com/molicode_repo/molicode-template-elementui
+
+功能说明：
+用户生成elementui适配的 CRUD功能的代码，具体介绍请访问git仓库地址，查看readme介绍；
+
+
+### molicode-template-antd
+
+模板地址：（据说美国佬已经无耻到限制部分国家github使用了）：
+https://gitee.com/molicode_repo/molicode-template-antd
+
+功能说明：
+用户生成antd-vue适配的 CRUD功能的代码，具体介绍请访问git仓库地址，查看readme介绍；
+
 
 
 ###  autocode-template-example
@@ -108,4 +125,14 @@ molicode生成工程代码实战: [https://my.oschina.net/davidzhang/blog/303654
 
 ## 最新模板(latest template)
 
-待补充...
+### molicode-template-elementui
+发布时间：2019-07-27发布
+
+git地址：https://gitee.com/molicode_repo/molicode-template-elementui
+
+### molicode-template-antd
+发布时间：2019-07-27发布
+
+git地址：https://gitee.com/molicode_repo/molicode-template-antd
+
+
