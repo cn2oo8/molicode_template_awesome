@@ -17,43 +17,6 @@ http://39.98.242.10 （备用）
 这个工程是用于列举优秀的molicode模板，方便大家分享和共享自己开发的代码模板。希望大家发扬共享精神，将自己开发的模板和基础工程一并分享出来。
 
 
-
-## 基础工程(base project)
-
-### 1. Springboot base project
-
-molicode基础工程，和molicode底层的代码和架构基本一致，主要是springboot的web应用，去掉了一些本地app相关的特性，更加纯粹的作为一个普通的web应用来使用。本工程是我目前比较推荐的脚手架工程。
-
-主要技术栈： springboot + mybatis + vue (iview admin ui)
-
-下载地址：<https://github.com/cn2oo8/springboot-base-prj>
-
-配合模板：
-
-autocode-template-example -> autocode-template-selfsdk
-
-请使用https://github.com/cn2oo8/autocode-template-example
-
-里面的 autocode-template-selfsdk 模板。
-
-### 2. Jshow aceadmin base project
-
-Aceadmin 基础工程， 基于bootstrap aceadmin 前端UI，可以作为常用的普通中后台前后端代码自动生成工程使用。前端UI采用aceadmin + bootstrap.
-
-主要技术栈： springmvc + mybatis + aceadmin + jQuery
-
-下载地址：[https://github.com/cn2oo8/aceadmin-base-prj](https://github.com/cn2oo8/aceadmin-base-prj)
-
-配合模板：
-
-autocode-template-example -> autocode-template-aceadmin
-
-请使用https://github.com/cn2oo8/autocode-template-example
-
-里面的 autocode-template-aceadmin 模板。
-
-> 特别说明：这个工程目前还不是很完善，有任何意见和建议欢迎提issue处理。
-
 ## 优秀模板(awesome template)
 
 ### molicode-template-elementui
@@ -112,6 +75,42 @@ https://github.com/cn2oo8/autocode-template-example
 QQ群名称：molicode技术交流群 群号：753207541
 
 欢迎加入沟通交流答疑群；
+
+## 基础工程(base project)
+
+### 1. Springboot base project
+
+molicode基础工程，和molicode底层的代码和架构基本一致，主要是springboot的web应用，去掉了一些本地app相关的特性，更加纯粹的作为一个普通的web应用来使用。本工程是我目前比较推荐的脚手架工程。
+
+主要技术栈： springboot + mybatis + vue (iview admin ui)
+
+下载地址：<https://github.com/cn2oo8/springboot-base-prj>
+
+配合模板：
+
+autocode-template-example -> autocode-template-selfsdk
+
+请使用https://github.com/cn2oo8/autocode-template-example
+
+里面的 autocode-template-selfsdk 模板。
+
+### 2. Jshow aceadmin base project
+
+Aceadmin 基础工程， 基于bootstrap aceadmin 前端UI，可以作为常用的普通中后台前后端代码自动生成工程使用。前端UI采用aceadmin + bootstrap.
+
+主要技术栈： springmvc + mybatis + aceadmin + jQuery
+
+下载地址：[https://github.com/cn2oo8/aceadmin-base-prj](https://github.com/cn2oo8/aceadmin-base-prj)
+
+配合模板：
+
+autocode-template-example -> autocode-template-aceadmin
+
+请使用https://github.com/cn2oo8/autocode-template-example
+
+里面的 autocode-template-aceadmin 模板。
+
+> 特别说明：这个工程目前还不是很完善，有任何意见和建议欢迎提issue处理。
 
 ## 示例教程
 molicode生成工程代码实战: [https://my.oschina.net/davidzhang/blog/3036548](https://my.oschina.net/davidzhang/blog/3036548)
