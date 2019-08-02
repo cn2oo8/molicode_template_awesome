@@ -5,6 +5,9 @@
 
 这个工程是用于列举优秀的molicode模板，方便大家分享和共享自己开发的代码模板。希望大家发扬共享精神，将自己开发的模板和基础工程一并分享出来。
 
+工具地址：https://www.oschina.net/p/molicode  
+工具下载地址：https://gitee.com/zhangshibin1987/molicode/releases
+工具在线预览：http://molicode.shareyi.com
 
 ## 优秀模板(awesome template)
 
@@ -29,7 +32,7 @@ https://gitee.com/molicode_repo/molicode-template-antd
 
 ###  autocode-template-example
 
-https://github.com/cn2oo8/autocode-template-example
+https://gitee.com/molicode_repo/autocode-template-example
 
 一个自动代码示例工程，内含5个示例代码模板：
 
@@ -73,13 +76,13 @@ molicode基础工程，和molicode底层的代码和架构基本一致，主要�
 
 主要技术栈： springboot + mybatis + vue (iview admin ui)
 
-下载地址：<https://github.com/cn2oo8/springboot-base-prj>
+下载地址：<https://gitee.com/molicode_repo/springboot-base-prj>
 
 配合模板：
 
 autocode-template-example -> autocode-template-selfsdk
 
-请使用https://github.com/cn2oo8/autocode-template-example
+请使用https://gitee.com/molicode_repo/autocode-template-example
 
 里面的 autocode-template-selfsdk 模板。
 
@@ -95,7 +98,7 @@ Aceadmin 基础工程， 基于bootstrap aceadmin 前端UI，可以作为常用�
 
 autocode-template-example -> autocode-template-aceadmin
 
-请使用https://github.com/cn2oo8/autocode-template-example
+请使用https://gitee.com/molicode_repo/autocode-template-example
 
 里面的 autocode-template-aceadmin 模板。
 
