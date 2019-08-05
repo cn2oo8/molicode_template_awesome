@@ -1,30 +1,48 @@
 {
   "repos": [
     {
-      "gitUrl": "git@github.com:cn2oo8/autocode-template-example.git",
+      "gitUrl": "https://gitee.com/molicode_repo/molicode-template-elementui.git",
+      "branchName": "master",
+      "title": "elementui-vue增删改查前端模板",
+      "description": "基于elementui-vue的增删改查模板",
+      "author": "david",
+      "homePage": "https://gitee.com/molicode_repo/molicode-template-elementui",
+      "templateRelativePath": "template-elementui-vue"
+    },
+    {
+      "gitUrl": "https://gitee.com/molicode_repo/molicode-template-antd.git",
+      "branchName": "master",
+      "title": "antd-vue增删改查前端模板",
+      "description": "基于antd-vue的增删改查前端模板",
+      "author": "david",
+      "homePage": "https://gitee.com/molicode_repo/molicode-template-antd",
+      "templateRelativePath": "template-antd-vue"
+    },
+    {
+      "gitUrl": "https://gitee.com/molicode_repo/autocode-template-example.git",
       "branchName": "master",
       "title": "aceadmin模板",
       "description": "用于aceadmin模板，aceadmin+bootstrap3",
       "author": "david",
-      "homePage": "https://github.com/cn2oo8/autocode-template-example",
+      "homePage": "https://gitee.com/molicode_repo/autocode-template-example",
       "templateRelativePath": "autocode-template-aceadmin"
     },
     {
-      "gitUrl": "git@github.com:cn2oo8/autocode-template-example.git",
+      "gitUrl": "https://gitee.com/molicode_repo/autocode-template-example.git",
       "branchName": "master",
       "title": "molicode自身模板",
       "description": "iviewadmin2+vue2+springboot+mybatis",
       "author": "david",
-      "homePage": "https://github.com/cn2oo8/autocode-template-example",
+      "homePage": "https://gitee.com/molicode_repo/autocode-template-example",
       "templateRelativePath": "autocode-template-selfsdk"
     },
     {
-      "gitUrl": "git@github.com:cn2oo8/autocode-template-example.git",
+      "gitUrl": "https://gitee.com/molicode_repo/autocode-template-example.git",
       "branchName": "master",
-      "title": "vue crud模板",
+      "title": "iview-vue crud模板",
       "description": "iview2+vue2增删改查模板",
       "author": "david",
-      "homePage": "https://github.com/cn2oo8/autocode-template-example",
+      "homePage": "https://gitee.com/molicode_repo/autocode-template-example",
       "templateRelativePath": "autocode-template-vue"
     },
     {
