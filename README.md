@@ -11,6 +11,8 @@
 
 工具在线预览：http://molicode.shareyi.com
 
+使用视屏教程：https://www.ixigua.com/i6721698395569783304/
+
 ## 优秀模板(awesome template)
 
 ### molicode-template-elementui
