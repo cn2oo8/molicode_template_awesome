@@ -137,3 +137,10 @@ git地址：https://gitee.com/molicode_repo/molicode-template-elementui
 git地址：https://gitee.com/molicode_repo/molicode-template-antd
 
 
+
+### molicode-template-persistence
+发布时间：2019-09-03发布
+
+git地址：https://gitee.com/molicode_repo/molicode-template-persistence
+
+用于 jpa & mybatisPlus 相关的数据库访问层代码生成；
