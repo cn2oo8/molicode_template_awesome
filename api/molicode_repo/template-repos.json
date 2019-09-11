@@ -52,6 +52,42 @@
       "description": "molicode模板开发学习模板",
       "author": "david",
       "homePage": "https://github.com/cn2oo8/molicode-template-study"
+    },
+    {
+      "gitUrl": "https://gitee.com/molicode_repo/autocode-template-example.git",
+      "branchName": "master",
+      "title": "es相关工具",
+      "description": "es相关工具",
+      "author": "david",
+      "homePage": "https://gitee.com/molicode_repo/autocode-template-example",
+      "templateRelativePath": "autocode-template-es"
+    },
+    {
+      "gitUrl": "https://gitee.com/molicode_repo/molicode-template-persistence.git",
+      "branchName": "master",
+      "title": "mybatis相关代码",
+      "description": "mybatis相关代码",
+      "author": "david",
+      "homePage": "https://gitee.com/molicode_repo/molicode-template-persistence",
+      "templateRelativePath": "molicode-template-mybatis"
+    },
+    {
+      "gitUrl": "https://gitee.com/molicode_repo/molicode-template-persistence.git",
+      "branchName": "master",
+      "title": "JPA相关代码",
+      "description": "JPA相关代码",
+      "author": "david",
+      "homePage": "https://gitee.com/molicode_repo/molicode-template-persistence",
+      "templateRelativePath": "molicode-template-jpa"
+    },
+    {
+      "gitUrl": "https://gitee.com/molicode_repo/molicode-template-persistence.git",
+      "branchName": "master",
+      "title": "mybatisPlus相关代码",
+      "description": "mybatisPlus相关代码",
+      "author": "david",
+      "homePage": "https://gitee.com/molicode_repo/molicode-template-persistence",
+      "templateRelativePath": "molicode-template-mybatisplus"
     }
   ]
 }
